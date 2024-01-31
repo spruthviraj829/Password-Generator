@@ -20,7 +20,7 @@ font-family: 'League Spartan' ,sans-serif;
 }
 
 
-body {
+.wrapper {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -242,6 +242,18 @@ h1 {
 .slider::-webkit-slider-thumb:hover{
     outline: 2px solid var(--vb-yellow);
     background-color: var(--dk-violet);
-   
+}
 
+.footer{
+    margin-top: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.footer a{
+    appearance: none;
+    color: white;
+     text-decoration: none;
 }
