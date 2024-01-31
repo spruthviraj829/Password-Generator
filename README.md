@@ -2,7 +2,10 @@
 
 ## How to use setup at local
 ### 1. Clone the repository: 
-git clone link ```bash https://github.com/spruthviraj829/Password-Generator ```
+git clone link :
+```bash 
+https://github.com/spruthviraj829/Password-Generator
+```
 ### 2. Open the index.html file in your preferred web browser.
 
 ## Technologies used
