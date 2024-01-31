@@ -10,4 +10,4 @@
 3. JavaScript
 
 ## Deplyoyed on Vercel
-link: link
+link: https://password-generator-five-rho.vercel.app/
