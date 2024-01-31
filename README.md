@@ -14,5 +14,10 @@ https://github.com/spruthviraj829/Password-Generator
 3. JavaScript
 
 ## Deplyoyed on Vercel
-link: https://password-generator-five-rho.vercel.app/
+```bash
+
+https://password-generator-five-rho.vercel.app/
+
+```
+
 ![Screenshot (74)](https://github.com/spruthviraj829/Password-Generator/assets/132601576/fc3c9ca5-b061-4d63-92df-ea56171093b3)
